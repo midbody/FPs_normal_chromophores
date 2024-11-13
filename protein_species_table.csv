@@ -1,0 +1,1026 @@
+name,species,division
+scubGFP1,Scolymia cubensis,stony corals
+scubGFP2,Scolymia cubensis,stony corals
+scubRFP,Scolymia cubensis,stony corals
+PdaC1,Pocillopora damicornis,stony corals
+dUltramarine2,Montipora efflorescens,stony corals
+meffCFP,Montipora efflorescens,stony corals
+meffCP,Montipora efflorescens,stony corals
+meffGFP,Montipora efflorescens,stony corals
+meffRFP,Montipora efflorescens,stony corals
+mRtms5,Montipora efflorescens,stony corals
+Rtms5,Montipora efflorescens,stony corals
+tdUltramarine2,Montipora efflorescens,stony corals
+Ultramarine,Montipora efflorescens,stony corals
+cgfmKate2,Entacmaea quadricolor,sea anemones
+cgfTagRFP,Entacmaea quadricolor,sea anemones
+cp-mKate,Entacmaea quadricolor,sea anemones
+CRISPRed2s,Entacmaea quadricolor,sea anemones
+CyOFP1,Entacmaea quadricolor,sea anemones
+CyRFP1,Entacmaea quadricolor,sea anemones
+dCyOFP2s,Entacmaea quadricolor,sea anemones
+dCyRFP2s,Entacmaea quadricolor,sea anemones
+d-RFP618,Entacmaea quadricolor,sea anemones
+Electra1,Entacmaea quadricolor,sea anemones
+Electra2,Entacmaea quadricolor,sea anemones
+eqFP578,Entacmaea quadricolor,sea anemones
+eqFP611,Entacmaea quadricolor,sea anemones
+eqFP611 V124T,Entacmaea quadricolor,sea anemones
+eqFP650,Entacmaea quadricolor,sea anemones
+eqFP670,Entacmaea quadricolor,sea anemones
+FR-1,Entacmaea quadricolor,sea anemones
+FusionRed,Entacmaea quadricolor,sea anemones
+FusionRed-M,Entacmaea quadricolor,sea anemones
+FusionRed-MQV,Entacmaea quadricolor,sea anemones
+iq-mKate2,Entacmaea quadricolor,sea anemones
+Katushka,Entacmaea quadricolor,sea anemones
+Katushka2S,Entacmaea quadricolor,sea anemones
+Katushka-9-5,Entacmaea quadricolor,sea anemones
+LSS-mKate1,Entacmaea quadricolor,sea anemones
+LSS-mKate2,Entacmaea quadricolor,sea anemones
+Maroon0.1,Entacmaea quadricolor,sea anemones
+mBeRFP,Entacmaea quadricolor,sea anemones
+mCardinal,Entacmaea quadricolor,sea anemones
+mCarmine,Entacmaea quadricolor,sea anemones
+mCRISPRed,Entacmaea quadricolor,sea anemones
+mCyRFP1,Entacmaea quadricolor,sea anemones
+mGarnet,Entacmaea quadricolor,sea anemones
+mGarnet2,Entacmaea quadricolor,sea anemones
+mKate,Entacmaea quadricolor,sea anemones
+mKate2,Entacmaea quadricolor,sea anemones
+mKate2.5,Entacmaea quadricolor,sea anemones
+mKate M41G S158C,Entacmaea quadricolor,sea anemones
+mKate S158A,Entacmaea quadricolor,sea anemones
+mKate S158C,Entacmaea quadricolor,sea anemones
+mKelly1,Entacmaea quadricolor,sea anemones
+mKelly2,Entacmaea quadricolor,sea anemones
+mLumin,Entacmaea quadricolor,sea anemones
+mMaroon1,Entacmaea quadricolor,sea anemones
+mNeptune,Entacmaea quadricolor,sea anemones
+mNeptune2,Entacmaea quadricolor,sea anemones
+mNeptune2.5,Entacmaea quadricolor,sea anemones
+mNeptune681,Entacmaea quadricolor,sea anemones
+mNeptune684,Entacmaea quadricolor,sea anemones
+mRuby,Entacmaea quadricolor,sea anemones
+mRuby2,Entacmaea quadricolor,sea anemones
+mRuby3,Entacmaea quadricolor,sea anemones
+mStable,Entacmaea quadricolor,sea anemones
+mTagBFP2,Entacmaea quadricolor,sea anemones
+Neptune,Entacmaea quadricolor,sea anemones
+PAmKate,Entacmaea quadricolor,sea anemones
+PATagRFP,Entacmaea quadricolor,sea anemones
+PATagRFP1297,Entacmaea quadricolor,sea anemones
+PATagRFP1314,Entacmaea quadricolor,sea anemones
+PSLSSmKate,Entacmaea quadricolor,sea anemones
+PSLSSmKate,Entacmaea quadricolor,sea anemones
+RCaMP,Entacmaea quadricolor,sea anemones
+RFP611,Entacmaea quadricolor,sea anemones
+RFP618,Entacmaea quadricolor,sea anemones
+RFP630,Entacmaea quadricolor,sea anemones
+RFP637,Entacmaea quadricolor,sea anemones
+RFP639,Entacmaea quadricolor,sea anemones
+rsFusionRed1,Entacmaea quadricolor,sea anemones
+rsFusionRed2,Entacmaea quadricolor,sea anemones
+rsFusionRed3,Entacmaea quadricolor,sea anemones
+rsTagRFP,Entacmaea quadricolor,sea anemones
+secBFP2,Entacmaea quadricolor,sea anemones
+super-TagRFP,Entacmaea quadricolor,sea anemones
+TagBFP,Entacmaea quadricolor,sea anemones
+TagRFP,Entacmaea quadricolor,sea anemones
+TagRFP657,Entacmaea quadricolor,sea anemones
+TagRFP658,Entacmaea quadricolor,sea anemones
+TagRFP675,Entacmaea quadricolor,sea anemones
+TagRFP-T,Entacmaea quadricolor,sea anemones
+tdKatushka2,Entacmaea quadricolor,sea anemones
+td-RFP611,Entacmaea quadricolor,sea anemones
+td-RFP639,Entacmaea quadricolor,sea anemones
+TurboFP602,Entacmaea quadricolor,sea anemones
+TurboRFP,Entacmaea quadricolor,sea anemones
+gtenCP,Goniopora tenuidens,stony corals
+scleFP1,Scleractinia sp. Lizard Island 38,stony corals
+scleFP2,Scleractinia sp. Lizard Island 38,stony corals
+hmGFP,Heteractis magnifica,sea anemones
+cjBlue,Cnidopus,sea anemones
+cjBlue2,Cnidopus,sea anemones
+amCyan1,Anemonia majano,sea anemones
+amFP486,Anemonia majano,sea anemones
+amFP495,Anemonia majano,sea anemones
+amFP506,Anemonia majano,sea anemones
+amFP515,Anemonia majano,sea anemones
+asCP562,Anemonia sulcata,sea anemones
+asFP499,Anemonia sulcata,sea anemones
+AsRed2,Anemonia sulcata,sea anemones
+asulCP,Anemonia sulcata,sea anemones
+KFP1,Anemonia sulcata,sea anemones
+M355NA,Anemonia sulcata,sea anemones
+SuperNova2,Anthomedusae sp. DC-2005,hydrozoans
+SuperNova Red,Anthomedusae sp. DC-2005,hydrozoans
+FPmcavgr7.7,Montastraea cavernosa,stony corals
+LEA,Montastraea cavernosa,stony corals
+mc1,Montastraea cavernosa,stony corals
+mc2,Montastraea cavernosa,stony corals
+mc3,Montastraea cavernosa,stony corals
+mc4,Montastraea cavernosa,stony corals
+mc5,Montastraea cavernosa,stony corals
+mc6,Montastraea cavernosa,stony corals
+McaG1,Montastraea cavernosa,stony corals
+McaG1ea,Montastraea cavernosa,stony corals
+McaG2,Montastraea cavernosa,stony corals
+mcavFP,Montastraea cavernosa,stony corals
+mcavGFP,Montastraea cavernosa,stony corals
+mcavRFP,Montastraea cavernosa,stony corals
+mcCFP,Montastraea cavernosa,stony corals
+mcFP497,Montastraea cavernosa,stony corals
+mcFP503,Montastraea cavernosa,stony corals
+mcFP506,Montastraea cavernosa,stony corals
+mcRFP,Montastraea cavernosa,stony corals
+mfolCP577,Montipora foliosa,stony corals
+CagFbFP,Chloroflexus aggregans,GNS bacteria
+iLov,Broad host range vector vector pCVD060,other sequences
+AausFP1,Aequorea australis,hydrozoans
+AausFP2,Aequorea australis,hydrozoans
+AausFP3,Aequorea australis,hydrozoans
+AausFP4,Aequorea australis,hydrozoans
+AausGFP,Aequorea australis,hydrozoans
+cgreGFP,Clytia gregaria,hydrozoans
+echFP,Scleractinia sp. Lizard Island 28,stony corals
+echiFP,Scleractinia sp. Lizard Island 28,stony corals
+gdjiCP,Goniopora djiboutiensis,stony corals
+R3-2+PCB,Trichodesmium erythraeum IMS101,cyanobacteria
+smURFP,Trichodesmium erythraeum IMS101,cyanobacteria
+TDsmURFP,Trichodesmium erythraeum IMS101,cyanobacteria
+TeAPCα,Trichodesmium erythraeum IMS101,cyanobacteria
+shBFP,Stichodactyla haddoni,sea anemones
+shBFP-N158K/L173I,Stichodactyla haddoni,sea anemones
+shBFP-N158S/L173I,Stichodactyla haddoni,sea anemones
+shCP,Stichodactyla haddoni,sea anemones
+AzamiGreen,Galaxea fascicularis,stony corals
+AzamiRed1.0,Galaxea fascicularis,stony corals
+gfasCP,Galaxea fascicularis,stony corals
+gfasGFP,Galaxea fascicularis,stony corals
+mARs1,Galaxea fascicularis,stony corals
+mAzamiGreen,Galaxea fascicularis,stony corals
+DrCBD,Deinococcus radiodurans,bacteria
+iFP1.4,Deinococcus radiodurans,bacteria
+SNIFP,Deinococcus radiodurans,bacteria
+Wi-Phy,Deinococcus radiodurans,bacteria
+Chronos,Stigeoclonium helveticum,green algae
+meleCFP,Mycedium elephantotus,stony corals
+meleRFP,Mycedium elephantotus,stony corals
+h2-3,Ricordea sp. FP2-3,coral anemones
+aeurGFP,Acropora eurystoma,stony corals
+dPapaya0.1,Zoanthus sp.,mat anemones
+mPapaya,Zoanthus sp.,mat anemones
+mPapaya0.3,Zoanthus sp.,mat anemones
+mPapaya0.6,Zoanthus sp.,mat anemones
+mPapaya0.7,Zoanthus sp.,mat anemones
+tPapaya0.01,Zoanthus sp.,mat anemones
+zFP538,Zoanthus sp.,mat anemones
+zGFP,Zoanthus sp.,mat anemones
+zoan2RFP,Zoanthus sp.,mat anemones
+zRFP,Zoanthus sp.,mat anemones
+ZsGreen,Zoanthus sp.,mat anemones
+ZsGreen1,Zoanthus sp.,mat anemones
+ZsYellow1,Zoanthus sp.,mat anemones
+cgigCP,Condylactis gigantea,sea anemones
+cgigGFP,Condylactis gigantea,sea anemones
+spisCP,Stylophora pistillata,stony corals
+UnaG,Anguilla japonica,bony fishes
+mmilCFP,Montipora millepora,stony corals
+BR1,Arabidopsis thaliana,eudicots
+miniGFP1,Arabidopsis thaliana,eudicots
+miniGFP2,Arabidopsis thaliana,eudicots
+miniSOG,Arabidopsis thaliana,eudicots
+miniSOG2,Arabidopsis thaliana,eudicots
+miniSOG Q103V,Arabidopsis thaliana,eudicots
+phiLOV2.1,Arabidopsis thaliana,eudicots
+phiLOV3,Arabidopsis thaliana,eudicots
+SH3,Arabidopsis thaliana,eudicots
+SOPP,Arabidopsis thaliana,eudicots
+SOPP2,Arabidopsis thaliana,eudicots
+SOPP3,Arabidopsis thaliana,eudicots
+obeCFP,Obelia sp.,hydrozoans
+obeGFP,Obelia sp.,hydrozoans
+obeYFP,Obelia sp.,hydrozoans
+MfaG1,Orbicella faveolata,stony corals
+miRFP670nano,Nostoc punctiforme,cyanobacteria
+miRFP670nano3,Nostoc punctiforme,cyanobacteria
+NpR3784g,Nostoc punctiforme,cyanobacteria
+AzaleaB5,Montipora monasteriata,stony corals
+mIFP,Bradyrhizobium sp.,a-proteobacteria
+dhorGFP,Danafungia horrida,stony corals
+dhorRFP,Danafungia horrida,stony corals
+hfriFP,Herbaspirillum frisingense,b-proteobacteria
+CheGFP1,Clytia hemisphaerica,hydrozoans
+CheGFP2,Clytia hemisphaerica,hydrozoans
+CheGFP3,Clytia hemisphaerica,hydrozoans
+CheGFP4,Clytia hemisphaerica,hydrozoans
+ppluGFP1,Pontellina plumata,crustaceans
+ppluGFP2,Pontellina plumata,crustaceans
+TurboGFP,Pontellina plumata,crustaceans
+TurboGFP-V197L,Pontellina plumata,crustaceans
+psamCFP,Psammocora sp. NA-2008,stony corals
+afraGFP,Agaricia fragilis,stony corals
+Fpag_frag,Agaricia fragilis,stony corals
+SAASoti,Stylocoeniella armata,stony corals
+SAASoti,Stylocoeniella armata,stony corals
+V127T SAASoti,Stylocoeniella armata,stony corals
+V127T SAASoti,Stylocoeniella armata,stony corals
+aacuCP,Acropora aculeus,stony corals
+aacuGFP1,Acropora aculeus,stony corals
+aacuGFP2,Acropora aculeus,stony corals
+ahyaCP,Acropora hyacinthus,stony corals
+iRFP670,Rhodopseudomonas palustris CGA009,a-proteobacteria
+iRFP702,Rhodopseudomonas palustris CGA009,a-proteobacteria
+iRFP713/V256C,Rhodopseudomonas palustris CGA009,a-proteobacteria
+miRFP670-2,Rhodopseudomonas palustris CGA009,a-proteobacteria
+miRFP680,Rhodopseudomonas palustris CGA009,a-proteobacteria
+miRFP682,Rhodopseudomonas palustris CGA009,a-proteobacteria
+miRFP702,Rhodopseudomonas palustris CGA009,a-proteobacteria
+miRFP713,Rhodopseudomonas palustris CGA009,a-proteobacteria
+RpBphP2,Rhodopseudomonas palustris CGA009,a-proteobacteria
+RpBphP6,Rhodopseudomonas palustris CGA009,a-proteobacteria
+ptilGFP,Ptilosarcus sp. CSG-2001,sea pens
+eforCP,Echinopora forskaliana,stony corals
+pmeaGFP1,Pontella meadi,crustaceans
+pmeaGFP2,Pontella meadi,crustaceans
+bfloGFPa1,Branchiostoma floridae,lancelets
+bfloGFPc1,Branchiostoma floridae,lancelets
+LanFP1,Branchiostoma floridae,lancelets
+LanFP2,Branchiostoma floridae,lancelets
+10B,Aequorea victoria,hydrozoans
+11,Aequorea victoria,hydrozoans
+(3-F)Tyr-EGFP,Aequorea victoria,hydrozoans
+5B,Aequorea victoria,hydrozoans
+6C,Aequorea victoria,hydrozoans
+Achilles,Aequorea victoria,hydrozoans
+αGFP,Aequorea victoria,hydrozoans
+Aquamarine,Aequorea victoria,hydrozoans
+avGFP,Aequorea victoria,hydrozoans
+avGFP454,Aequorea victoria,hydrozoans
+avGFP480,Aequorea victoria,hydrozoans
+avGFP509,Aequorea victoria,hydrozoans
+avGFP510,Aequorea victoria,hydrozoans
+avGFP514,Aequorea victoria,hydrozoans
+avGFP523,Aequorea victoria,hydrozoans
+AvicFP1,Aequorea victoria,hydrozoans
+AvicFP2,Aequorea victoria,hydrozoans
+AvicFP3,Aequorea victoria,hydrozoans
+AvicFP4,Aequorea victoria,hydrozoans
+Azurite,Aequorea victoria,hydrozoans
+BFP,Aequorea victoria,hydrozoans
+BFP5,Aequorea victoria,hydrozoans
+BFP.A5,Aequorea victoria,hydrozoans
+BFPsol,Aequorea victoria,hydrozoans
+BrUSLEE,Aequorea victoria,hydrozoans
+C3PA-GFP,Aequorea victoria,hydrozoans
+cEGFP,Aequorea victoria,hydrozoans
+Cerulean,Aequorea victoria,hydrozoans
+CFP,Aequorea victoria,hydrozoans
+CFP4,Aequorea victoria,hydrozoans
+cfSGFP2,Aequorea victoria,hydrozoans
+CGFP,Aequorea victoria,hydrozoans
+Citrine,Aequorea victoria,hydrozoans
+Citrine2,Aequorea victoria,hydrozoans
+Clomeleon,Aequorea victoria,hydrozoans
+Clover,Aequorea victoria,hydrozoans
+Clover1.5,Aequorea victoria,hydrozoans
+cpCitrine,Aequorea victoria,hydrozoans
+cpT-Sapphire 174-173,Aequorea victoria,hydrozoans
+Cy11.5,Aequorea victoria,hydrozoans
+CyPet,Aequorea victoria,hydrozoans
+D10,Aequorea victoria,hydrozoans
+DarkVenus,Aequorea victoria,hydrozoans
+dClover2,Aequorea victoria,hydrozoans
+dClover2 A206K,Aequorea victoria,hydrozoans
+deGFP1,Aequorea victoria,hydrozoans
+deGFP2,Aequorea victoria,hydrozoans
+deGFP3,Aequorea victoria,hydrozoans
+deGFP4,Aequorea victoria,hydrozoans
+DimVenus,Aequorea victoria,hydrozoans
+Dreiklang,Aequorea victoria,hydrozoans
+EBFP,Aequorea victoria,hydrozoans
+EBFP1.2,Aequorea victoria,hydrozoans
+EBFP1.5,Aequorea victoria,hydrozoans
+EBFP2,Aequorea victoria,hydrozoans
+ECFP,Aequorea victoria,hydrozoans
+ECFP H148D,Aequorea victoria,hydrozoans
+ECGFP,Aequorea victoria,hydrozoans
+EGFP,Aequorea victoria,hydrozoans
+eGFP203C,Aequorea victoria,hydrozoans
+eGFP205C,Aequorea victoria,hydrozoans
+Emerald,Aequorea victoria,hydrozoans
+Enhanced Cyan-Emitting GFP,Aequorea victoria,hydrozoans
+esGFP,Aequorea victoria,hydrozoans
+EYFP,Aequorea victoria,hydrozoans
+EYFP-F46L,Aequorea victoria,hydrozoans
+EYFP-Q69K,Aequorea victoria,hydrozoans
+FOLD6,Aequorea victoria,hydrozoans
+Folding Reporter GFP,Aequorea victoria,hydrozoans
+GCaMP2,Aequorea victoria,hydrozoans
+GCaMP6f,Aequorea victoria,hydrozoans
+GCaMP6f,Aequorea victoria,hydrozoans
+GCaMP6f,Aequorea victoria,hydrozoans
+GFP-151pyTyrCu,Aequorea victoria,hydrozoans
+GFP(E222G),Aequorea victoria,hydrozoans
+GFPhal,Aequorea victoria,hydrozoans
+GFPmut2,Aequorea victoria,hydrozoans
+GFPmut3,Aequorea victoria,hydrozoans
+GFP (S65T),Aequorea victoria,hydrozoans
+GFP-Tyr151pyz,Aequorea victoria,hydrozoans
+GZnP3,Aequorea victoria,hydrozoans
+GZnP3,Aequorea victoria,hydrozoans
+H9,Aequorea victoria,hydrozoans
+htFuncLib_acid.1,Aequorea victoria,hydrozoans
+htFuncLib_acid.2,Aequorea victoria,hydrozoans
+htFuncLib_acid.3,Aequorea victoria,hydrozoans
+htFuncLib_acid.4,Aequorea victoria,hydrozoans
+htFuncLib_acid.5,Aequorea victoria,hydrozoans
+htFuncLib_acid.6,Aequorea victoria,hydrozoans
+htFuncLib_basic.1,Aequorea victoria,hydrozoans
+htFuncLib_basic.2,Aequorea victoria,hydrozoans
+htFuncLib_basic.3,Aequorea victoria,hydrozoans
+htFuncLib_basic.4,Aequorea victoria,hydrozoans
+htFuncLib_basic.6,Aequorea victoria,hydrozoans
+htFuncLib_bleach.1,Aequorea victoria,hydrozoans
+htFuncLib_bleach.2,Aequorea victoria,hydrozoans
+htFuncLib_bleach.3,Aequorea victoria,hydrozoans
+htFuncLib_bleach.4,Aequorea victoria,hydrozoans
+htFuncLib_bleach.5,Aequorea victoria,hydrozoans
+htFuncLib_bleach.6,Aequorea victoria,hydrozoans
+htFuncLib_em-blue-shift.1,Aequorea victoria,hydrozoans
+htFuncLib_em-blue-shift.2,Aequorea victoria,hydrozoans
+htFuncLib_fast.1,Aequorea victoria,hydrozoans
+htFuncLib_fast.2,Aequorea victoria,hydrozoans
+htFuncLib_fast.3,Aequorea victoria,hydrozoans
+htFuncLib_fast.4,Aequorea victoria,hydrozoans
+htFuncLib_mid.10,Aequorea victoria,hydrozoans
+htFuncLib_mid.11,Aequorea victoria,hydrozoans
+htFuncLib_mid.12,Aequorea victoria,hydrozoans
+htFuncLib_mid.13,Aequorea victoria,hydrozoans
+htFuncLib_mid.2,Aequorea victoria,hydrozoans
+htFuncLib_mid.3,Aequorea victoria,hydrozoans
+htFuncLib_mid.4,Aequorea victoria,hydrozoans
+htFuncLib_mid.5,Aequorea victoria,hydrozoans
+htFuncLib_mid.6,Aequorea victoria,hydrozoans
+htFuncLib_mid.7,Aequorea victoria,hydrozoans
+htFuncLib_mid.8,Aequorea victoria,hydrozoans
+htFuncLib_mid.9,Aequorea victoria,hydrozoans
+htFuncLib_photostable.1,Aequorea victoria,hydrozoans
+htFuncLib_photostable.2,Aequorea victoria,hydrozoans
+htFuncLib_sf:acid.3,Aequorea victoria,hydrozoans
+htFuncLib_sf:acid.4,Aequorea victoria,hydrozoans
+htFuncLib_sf:acid.5,Aequorea victoria,hydrozoans
+htFuncLib_sf:bleach.1,Aequorea victoria,hydrozoans
+htFuncLib_sf:bleach.2,Aequorea victoria,hydrozoans
+htFuncLib_sf:bleach.3,Aequorea victoria,hydrozoans
+htFuncLib_sf:em-blue-shift.1,Aequorea victoria,hydrozoans
+htFuncLib_sf:em-blue-shift.2,Aequorea victoria,hydrozoans
+htFuncLib_sf:fast.3,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.10,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.11,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.12,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.5,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.7,Aequorea victoria,hydrozoans
+htFuncLib_sf:mid.9,Aequorea victoria,hydrozoans
+htFuncLib_sf:photostable.1,Aequorea victoria,hydrozoans
+htFuncLib_sf:photostable.2,Aequorea victoria,hydrozoans
+htFuncLib_sf:thermo.2,Aequorea victoria,hydrozoans
+htFuncLib_sf:thermo.9,Aequorea victoria,hydrozoans
+htFuncLib_slow.1,Aequorea victoria,hydrozoans
+htFuncLib_slow.2,Aequorea victoria,hydrozoans
+htFuncLib_slow.3,Aequorea victoria,hydrozoans
+htFuncLib_slow.4,Aequorea victoria,hydrozoans
+htFuncLib_slow.5,Aequorea victoria,hydrozoans
+htFuncLib_thermo.1,Aequorea victoria,hydrozoans
+htFuncLib_thermo.2,Aequorea victoria,hydrozoans
+htFuncLib_thermo.3,Aequorea victoria,hydrozoans
+htFuncLib_thermo.4,Aequorea victoria,hydrozoans
+htFuncLib_thermo.5,Aequorea victoria,hydrozoans
+htFuncLib_thermo.6,Aequorea victoria,hydrozoans
+htFuncLib_thermo.8,Aequorea victoria,hydrozoans
+htFuncLib_thermo.9,Aequorea victoria,hydrozoans
+Hyperfolder YFP,Aequorea victoria,hydrozoans
+iq-EBFP2,Aequorea victoria,hydrozoans
+iq-mCerulean3,Aequorea victoria,hydrozoans
+iq-mEmerald,Aequorea victoria,hydrozoans
+iq-mVenus,Aequorea victoria,hydrozoans
+Lime,Aequorea victoria,hydrozoans
+LSSA12,Aequorea victoria,hydrozoans
+LSSmGFP,Aequorea victoria,hydrozoans
+mAmetrine,Aequorea victoria,hydrozoans
+mAvicFP1,Aequorea victoria,hydrozoans
+mCerulean,Aequorea victoria,hydrozoans
+mCerulean2,Aequorea victoria,hydrozoans
+mCerulean2.D3,Aequorea victoria,hydrozoans
+mCerulean2.N,Aequorea victoria,hydrozoans
+mCerulean2.N(T65S),Aequorea victoria,hydrozoans
+mCerulean3,Aequorea victoria,hydrozoans
+mCerulean.B,Aequorea victoria,hydrozoans
+mCerulean.B2,Aequorea victoria,hydrozoans
+mCerulean.B24,Aequorea victoria,hydrozoans
+mChartreuse,Aequorea victoria,hydrozoans
+mCitrine,Aequorea victoria,hydrozoans
+mClover1.5,Aequorea victoria,hydrozoans
+mClover3,Aequorea victoria,hydrozoans
+mECFP,Aequorea victoria,hydrozoans
+mEGFP,Aequorea victoria,hydrozoans
+mEmerald,Aequorea victoria,hydrozoans
+mEYFP,Aequorea victoria,hydrozoans
+mGFP5,Aequorea victoria,hydrozoans
+mGFPmut3,Aequorea victoria,hydrozoans
+mGold,Aequorea victoria,hydrozoans
+mGreenLantern,Aequorea victoria,hydrozoans
+mJuniper,Aequorea victoria,hydrozoans
+mKalama1,Aequorea victoria,hydrozoans
+mLemon,Aequorea victoria,hydrozoans
+MmGFP6,Aequorea victoria,hydrozoans
+Monomeric hyperfolder YFP,Aequorea victoria,hydrozoans
+moxBFP,Aequorea victoria,hydrozoans
+moxCerulean3,Aequorea victoria,hydrozoans
+moxGFP,Aequorea victoria,hydrozoans
+moxVenus,Aequorea victoria,hydrozoans
+mPA-GFP,Aequorea victoria,hydrozoans
+msGFP2,Aequorea victoria,hydrozoans
+mT-Sapphire,Aequorea victoria,hydrozoans
+mTurquoise,Aequorea victoria,hydrozoans
+mTurquoise-146G,Aequorea victoria,hydrozoans
+mTurquoise-146S,Aequorea victoria,hydrozoans
+mTurquoise2,Aequorea victoria,hydrozoans
+mTurquoise2-1710,Aequorea victoria,hydrozoans
+mTurquoise2-G,Aequorea victoria,hydrozoans
+mTurquoise-DR,Aequorea victoria,hydrozoans
+mTurquoise-GL,Aequorea victoria,hydrozoans
+mTurquoise-GV,Aequorea victoria,hydrozoans
+mTurquoise-RA,Aequorea victoria,hydrozoans
+muGFP,Aequorea victoria,hydrozoans
+mVenus,Aequorea victoria,hydrozoans
+mVenus-Q69M,Aequorea victoria,hydrozoans
+NowGFP,Aequorea victoria,hydrozoans
+oxBFP,Aequorea victoria,hydrozoans
+oxCerulean,Aequorea victoria,hydrozoans
+oxGFP,Aequorea victoria,hydrozoans
+oxVenus,Aequorea victoria,hydrozoans
+P11,Aequorea victoria,hydrozoans
+P4,Aequorea victoria,hydrozoans
+P4-1,Aequorea victoria,hydrozoans
+P4-3E,Aequorea victoria,hydrozoans
+P9,Aequorea victoria,hydrozoans
+PA-GFP,Aequorea victoria,hydrozoans
+pHluorin2,Aequorea victoria,hydrozoans
+pHluorin2,Aequorea victoria,hydrozoans
+"pHluorin, ecliptic",Aequorea victoria,hydrozoans
+"pHluorin, ecliptic",Aequorea victoria,hydrozoans
+"pHluorin, ratiometric",Aequorea victoria,hydrozoans
+"pHluorin, ratiometric",Aequorea victoria,hydrozoans
+pH-tdGFP,Aequorea victoria,hydrozoans
+PROSS-eGFP,Aequorea victoria,hydrozoans
+Q80R,Aequorea victoria,hydrozoans
+REACh1,Aequorea victoria,hydrozoans
+REACh2,Aequorea victoria,hydrozoans
+roGFP1,Aequorea victoria,hydrozoans
+roGFP1-R1,Aequorea victoria,hydrozoans
+roGFP1-R8,Aequorea victoria,hydrozoans
+roGFP2,Aequorea victoria,hydrozoans
+rsEGFP,Aequorea victoria,hydrozoans
+rsEGFP2,Aequorea victoria,hydrozoans
+rsFolder,Aequorea victoria,hydrozoans
+rsFolder2,Aequorea victoria,hydrozoans
+RSGFP1,Aequorea victoria,hydrozoans
+RSGFP2,Aequorea victoria,hydrozoans
+RSGFP3,Aequorea victoria,hydrozoans
+RSGFP4,Aequorea victoria,hydrozoans
+RSGFP6,Aequorea victoria,hydrozoans
+RSGFP7,Aequorea victoria,hydrozoans
+rsGreen1,Aequorea victoria,hydrozoans
+Sapphire,Aequorea victoria,hydrozoans
+SBFP1,Aequorea victoria,hydrozoans
+SBFP2,Aequorea victoria,hydrozoans
+SCFP1,Aequorea victoria,hydrozoans
+SCFP2,Aequorea victoria,hydrozoans
+SCFP3A,Aequorea victoria,hydrozoans
+SCFP3B,Aequorea victoria,hydrozoans
+SEYFP,Aequorea victoria,hydrozoans
+sg11,Aequorea victoria,hydrozoans
+sg12,Aequorea victoria,hydrozoans
+sg25,Aequorea victoria,hydrozoans
+sg42,Aequorea victoria,hydrozoans
+sg50,Aequorea victoria,hydrozoans
+SGFP1,Aequorea victoria,hydrozoans
+SGFP2,Aequorea victoria,hydrozoans
+SGFP2(206A),Aequorea victoria,hydrozoans
+SGFP2(E222Q),Aequorea victoria,hydrozoans
+SGFP2(T65G),Aequorea victoria,hydrozoans
+ShadowG,Aequorea victoria,hydrozoans
+ShadowY,Aequorea victoria,hydrozoans
+SHardonnay,Aequorea victoria,hydrozoans
+Sirius,Aequorea victoria,hydrozoans
+SiriusGFP,Aequorea victoria,hydrozoans
+spGFP 11,Aequorea victoria,hydrozoans
+spGFP1-10,Aequorea victoria,hydrozoans
+SPOON,Aequorea victoria,hydrozoans
+sREACh,Aequorea victoria,hydrozoans
+sREACh1,Aequorea victoria,hydrozoans
+sREACh2,Aequorea victoria,hydrozoans
+Sumire,Aequorea victoria,hydrozoans
+superecliptic pHluorin,Aequorea victoria,hydrozoans
+Superfolder BFP,Aequorea victoria,hydrozoans
+Superfolder CFP,Aequorea victoria,hydrozoans
+Superfolder GFP,Aequorea victoria,hydrozoans
+Superfolder mTurquoise2,Aequorea victoria,hydrozoans
+Superfolder mTurquoise2 ox,Aequorea victoria,hydrozoans
+Superfolder pHluorin,Aequorea victoria,hydrozoans
+Superfolder YFP,Aequorea victoria,hydrozoans
+SYFP2,Aequorea victoria,hydrozoans
+Topaz,Aequorea victoria,hydrozoans
+Trp-less GFP,Aequorea victoria,hydrozoans
+T-Sapphire,Aequorea victoria,hydrozoans
+Turquoise-GL,Aequorea victoria,hydrozoans
+usGFP,Aequorea victoria,hydrozoans
+Venus,Aequorea victoria,hydrozoans
+vsfGFP-0,Aequorea victoria,hydrozoans
+vsfGFP-9,Aequorea victoria,hydrozoans
+vsGFP,Aequorea victoria,hydrozoans
+W1C,Aequorea victoria,hydrozoans
+W2,Aequorea victoria,hydrozoans
+W7,Aequorea victoria,hydrozoans
+WasCFP,Aequorea victoria,hydrozoans
+YFP3,Aequorea victoria,hydrozoans
+YPet,Aequorea victoria,hydrozoans
+rrenGFP,Renilla reniformis,sea pens
+rrGFP,Renilla reniformis,sea pens
+mmGFP,Meandrina meandrites,stony corals
+efasCFP,Eusmilia fastigiata,stony corals
+efasGFP,Eusmilia fastigiata,stony corals
+pdae1GFP,Pontellidae sp. SL-2003,crustaceans
+plamGFP,Platygyra lamellina,stony corals
+stylCP,Stylocoeniella sp. NOA-2005,stony corals
+stylGFP,Stylocoeniella sp. NOA-2005,stony corals
+alajGFP1,Astrangia lajollaensis,stony corals
+alajGFP2,Astrangia lajollaensis,stony corals
+alajGFP3,Astrangia lajollaensis,stony corals
+pmimGFP1,Pontella mimocerami,crustaceans
+pmimGFP2,Pontella mimocerami,crustaceans
+Channelrhodopsin2,Chlamydomonas reinhardtii,green algae
+CreiLOV,Chlamydomonas reinhardtii,green algae
+cpasCP,Condylactis passiflora,sea anemones
+KOFP-7,Pseudomonas putida,g-proteobacteria
+Pp2 FbFP,Pseudomonas putida,g-proteobacteria
+Pp2FbFP L30M,Pseudomonas putida,g-proteobacteria
+Fpaagar,Agaricia agaricites,stony corals
+cjFP510,Cribrinopsis japonica,sea anemones
+sympFP,Scleractinia sp. Lizard Island 37,stony corals
+A1a,Acropora millepora,stony corals
+amilCP,Acropora millepora,stony corals
+amilCP580,Acropora millepora,stony corals
+amilCP586,Acropora millepora,stony corals
+amilCP604,Acropora millepora,stony corals
+amilCP-Orange,Acropora millepora,stony corals
+amilCP-Pink,Acropora millepora,stony corals
+amilFP484,Acropora millepora,stony corals
+amilFP490,Acropora millepora,stony corals
+amilFP497,Acropora millepora,stony corals
+amilFP504,Acropora millepora,stony corals
+amilFP512,Acropora millepora,stony corals
+amilFP513,Acropora millepora,stony corals
+amilFP593,Acropora millepora,stony corals
+amilFP597,Acropora millepora,stony corals
+amilGFP,Acropora millepora,stony corals
+CU17S,Cytaeis uchidae,hydrozoans
+mBaoJin,Cytaeis uchidae,hydrozoans
+mBaoJin-N137K,Cytaeis uchidae,hydrozoans
+mBaoJin-S134P,Cytaeis uchidae,hydrozoans
+mBaoJin-T55S,Cytaeis uchidae,hydrozoans
+mBaoJin-V152E,Cytaeis uchidae,hydrozoans
+mStayGold,Cytaeis uchidae,hydrozoans
+mStayGold2,Cytaeis uchidae,hydrozoans
+(n1)oxStayGold,Cytaeis uchidae,hydrozoans
+(n1)StayGold,Cytaeis uchidae,hydrozoans
+oxStayGold,Cytaeis uchidae,hydrozoans
+QC2-6,Cytaeis uchidae,hydrozoans
+StayGold,Cytaeis uchidae,hydrozoans
+StayGold-E138D,Cytaeis uchidae,hydrozoans
+td5oxStayGold,Cytaeis uchidae,hydrozoans
+td5StayGold,Cytaeis uchidae,hydrozoans
+td8ox2StayGold,Cytaeis uchidae,hydrozoans
+td8oxStayGold,Cytaeis uchidae,hydrozoans
+tdoxStayGold,Cytaeis uchidae,hydrozoans
+tdStayGold,Cytaeis uchidae,hydrozoans
+CpYGFP,Chiridius poppei,crustaceans
+eYGFP,Chiridius poppei,crustaceans
+eYGFPuv,Chiridius poppei,crustaceans
+eYGPdp,Chiridius poppei,crustaceans
+YGFPdp,Chiridius poppei,crustaceans
+YGFPuv,Chiridius poppei,crustaceans
+AdRed,Acropora digitifera,stony corals
+AdRed-C148S,Acropora digitifera,stony corals
+Sandercyanin,Sander vitreus,bony fishes
+apolCP584,Acropora polystoma,stony corals
+phiYFP,Phialidium sp. SL-2003,hydrozoans
+phiYFPv,Phialidium sp. SL-2003,hydrozoans
+TurboYFP,Phialidium sp. SL-2003,hydrozoans
+apulCP584,Acropora pulchra,stony corals
+apulFP483,Acropora pulchra,stony corals
+dKeima,Montipora sp. 20,stony corals
+dKeima570,Montipora sp. 20,stony corals
+hmKeima8.5,Montipora sp. 20,stony corals
+mKeima,Montipora sp. 20,stony corals
+mKeima,Montipora sp. 20,stony corals
+mKeima,Montipora sp. 20,stony corals
+mKeima,Montipora sp. 20,stony corals
+mKeima,Montipora sp. 20,stony corals
+Montipora sp. #20-9115,Montipora sp. 20,stony corals
+tKeima,Montipora sp. 20,stony corals
+meruFP,Scleractinia sp. Lizard Island 30,stony corals
+mUkG,Sarcophyton sp.,soft corals
+sarcGFP,Sarcophyton sp.,soft corals
+KikG,Favia favus,stony corals
+KikGR1,Favia favus,stony corals
+KikGR1,Favia favus,stony corals
+mKikGR,Favia favus,stony corals
+mKikGR,Favia favus,stony corals
+Xpa,Favia favus,stony corals
+GFPxm16,Aequorea macrodactyla,hydrozoans
+GFPxm161,Aequorea macrodactyla,hydrozoans
+GFPxm162,Aequorea macrodactyla,hydrozoans
+GFPxm163,Aequorea macrodactyla,hydrozoans
+GFPxm18,Aequorea macrodactyla,hydrozoans
+GFPxm181uv,Aequorea macrodactyla,hydrozoans
+GFPxm18uv,Aequorea macrodactyla,hydrozoans
+GFPxm19,Aequorea macrodactyla,hydrozoans
+GFPxm191uv,Aequorea macrodactyla,hydrozoans
+GFPxm19uv,Aequorea macrodactyla,hydrozoans
+OFPxm,Aequorea macrodactyla,hydrozoans
+ShG24,Aequorea macrodactyla,hydrozoans
+TagCFP,Aequorea macrodactyla,hydrozoans
+TagGFP,Aequorea macrodactyla,hydrozoans
+TagGFP2,Aequorea macrodactyla,hydrozoans
+TagYFP,Aequorea macrodactyla,hydrozoans
+cFP484,Clavularia sp.,soft corals
+dClavGR1.6,Clavularia sp.,soft corals
+dTFP0.1,Clavularia sp.,soft corals
+dTFP0.2,Clavularia sp.,soft corals
+G1,Clavularia sp.,soft corals
+G2,Clavularia sp.,soft corals
+G3,Clavularia sp.,soft corals
+mClavGR1,Clavularia sp.,soft corals
+mClavGR1.1,Clavularia sp.,soft corals
+mClavGR1.8,Clavularia sp.,soft corals
+mClavGR2,Clavularia sp.,soft corals
+mClavGR2,Clavularia sp.,soft corals
+mMaple,Clavularia sp.,soft corals
+mMaple,Clavularia sp.,soft corals
+mMaple2,Clavularia sp.,soft corals
+mMaple2,Clavularia sp.,soft corals
+mMaple3,Clavularia sp.,soft corals
+mMaple3,Clavularia sp.,soft corals
+moxMaple3,Clavularia sp.,soft corals
+moxMaple3,Clavularia sp.,soft corals
+mTFP*,Clavularia sp.,soft corals
+mTFP0.3,Clavularia sp.,soft corals
+mTFP0.4,Clavularia sp.,soft corals
+mTFP0.5,Clavularia sp.,soft corals
+mTFP0.6,Clavularia sp.,soft corals
+mTFP0.7,Clavularia sp.,soft corals
+mTFP0.8,Clavularia sp.,soft corals
+mTFP0.9,Clavularia sp.,soft corals
+mTFP1,Clavularia sp.,soft corals
+mTFP1-Y67H,Clavularia sp.,soft corals
+mTFP1-Y67W,Clavularia sp.,soft corals
+mWasabi,Clavularia sp.,soft corals
+dLanYFP,Branchiostoma lanceolatum,lancelets
+laGFP,Branchiostoma lanceolatum,lancelets
+lanRFP-ΔS83l,Branchiostoma lanceolatum,lancelets
+LanYFP,Branchiostoma lanceolatum,lancelets
+laRFP,Branchiostoma lanceolatum,lancelets
+mNeonGreen,Branchiostoma lanceolatum,lancelets
+moxNeonGreen,Branchiostoma lanceolatum,lancelets
+tdLanYFP,Branchiostoma lanceolatum,lancelets
+ccalGFP1,Corynactis californica,coral anemones
+ccalGFP3,Corynactis californica,coral anemones
+ccalOFP1,Corynactis californica,coral anemones
+ccalRFP1,Corynactis californica,coral anemones
+ccalRFP2,Corynactis californica,coral anemones
+ccalYFP1,Corynactis californica,coral anemones
+MiCy,Acropora sp. #30,stony corals
+mMiCy,Acropora sp. #30,stony corals
+mBlueberry1,Discosoma,coral anemones
+mBlueberry2,Discosoma,coral anemones
+aeBlue,Actinia equina,sea anemones
+AQ14,Actinia equina,sea anemones
+AQ143,Actinia equina,sea anemones
+eechGFP1,Echinophyllia echinata,stony corals
+eechGFP2,Echinophyllia echinata,stony corals
+eechGFP3,Echinophyllia echinata,stony corals
+eechRFP,Echinophyllia echinata,stony corals
+emiRFP670,Rhodopseudomonas palustris,a-proteobacteria
+emiRFP703,Rhodopseudomonas palustris,a-proteobacteria
+iFP2.0,Rhodopseudomonas palustris,a-proteobacteria
+iRFP682,Rhodopseudomonas palustris,a-proteobacteria
+iRFP713,Rhodopseudomonas palustris,a-proteobacteria
+iRFP720,Rhodopseudomonas palustris,a-proteobacteria
+miRFP,Rhodopseudomonas palustris,a-proteobacteria
+miRFP2,Rhodopseudomonas palustris,a-proteobacteria
+miRFP670,Rhodopseudomonas palustris,a-proteobacteria
+miRFP670v1,Rhodopseudomonas palustris,a-proteobacteria
+miRFP703,Rhodopseudomonas palustris,a-proteobacteria
+miRFP709,Rhodopseudomonas palustris,a-proteobacteria
+miRFP720,Rhodopseudomonas palustris,a-proteobacteria
+mRhubarb713,Rhodopseudomonas palustris,a-proteobacteria
+mRhubarb719,Rhodopseudomonas palustris,a-proteobacteria
+mRhubarb720,Rhodopseudomonas palustris,a-proteobacteria
+RpBphP1,Rhodopseudomonas palustris,a-proteobacteria
+frFAST,Halorhodospira halophila,g-proteobacteria
+BP02,synthetic construct,other sequences
+CGP,synthetic construct,other sequences
+fwYellow,synthetic construct,other sequences
+LSSmScarlet,synthetic construct,other sequences
+LSSmScarlet2,synthetic construct,other sequences
+LSSmScarlet3,synthetic construct,other sequences
+mRed7,synthetic construct,other sequences
+mRed7Q1,synthetic construct,other sequences
+mRed7Q1S1,synthetic construct,other sequences
+mRed7Q1S1BM,synthetic construct,other sequences
+mRubyFT,synthetic construct,other sequences
+mRubyFT,synthetic construct,other sequences
+mScarlet,synthetic construct,other sequences
+mScarlet-220A,synthetic construct,other sequences
+mScarlet-2A,synthetic construct,other sequences
+mScarlet-2A-84W,synthetic construct,other sequences
+mScarlet2-I,synthetic construct,other sequences
+mScarlet3,synthetic construct,other sequences
+mScarlet3-H,synthetic construct,other sequences
+mScarlet-H,synthetic construct,other sequences
+mScarlet-I,synthetic construct,other sequences
+mScarlet-I-220A,synthetic construct,other sequences
+mScarlet-I3,synthetic construct,other sequences
+mScarlet-I3-NCwt,synthetic construct,other sequences
+mWatermelon,synthetic construct,other sequences
+scOrange,synthetic construct,other sequences
+ShadowR,synthetic construct,other sequences
+tsPurple,synthetic construct,other sequences
+aceGFP,Aequorea coerulescens,hydrozoans
+aceGFP-G222E-Y220L,Aequorea coerulescens,hydrozoans
+aceGFP-h,Aequorea coerulescens,hydrozoans
+AcGFP1,Aequorea coerulescens,hydrozoans
+PS-CFP,Aequorea coerulescens,hydrozoans
+PS-CFP,Aequorea coerulescens,hydrozoans
+PS-CFP2,Aequorea coerulescens,hydrozoans
+PS-CFP2,Aequorea coerulescens,hydrozoans
+dendFP,Dendronephthya sp.,soft corals
+dendFP,Dendronephthya sp.,soft corals
+Dendra,Dendronephthya sp.,soft corals
+Dendra,Dendronephthya sp.,soft corals
+Dendra2,Dendronephthya sp.,soft corals
+Dendra2,Dendronephthya sp.,soft corals
+Dendra2-M159A,Dendronephthya sp.,soft corals
+Dendra2-M159A,Dendronephthya sp.,soft corals
+Dendra2-T69A,Dendronephthya sp.,soft corals
+Dendra2-T69A,Dendronephthya sp.,soft corals
+moxDendra2,Dendronephthya sp.,soft corals
+moxDendra2,Dendronephthya sp.,soft corals
+NijiFP,Dendronephthya sp.,soft corals
+NijiFP,Dendronephthya sp.,soft corals
+plobRFP,Porites lobata,stony corals
+BDFP1.6,Chroococcidiopsis,cyanobacteria
+BDFP1.8,Chroococcidiopsis,cyanobacteria
+sgBP,Stichodactyla gigantea,sea anemones
+sgBP-Q62M,Stichodactyla gigantea,sea anemones
+sgBP-S157C,Stichodactyla gigantea,sea anemones
+sgBP-S157T,Stichodactyla gigantea,sea anemones
+Lumazine binding protein,Photobacterium leiognathi,g-proteobacteria
+shysCP562,Seriatopora hystrix,stony corals
+FPmann,Orbicella annularis,stony corals
+laesGFP,Labidocera aestiva,crustaceans
+d1EosFP,Lobophyllia hemprichii,stony corals
+d1EosFP,Lobophyllia hemprichii,stony corals
+d2EosFP,Lobophyllia hemprichii,stony corals
+d2EosFP,Lobophyllia hemprichii,stony corals
+EosFP,Lobophyllia hemprichii,stony corals
+EosFP,Lobophyllia hemprichii,stony corals
+frSkylan-S,Lobophyllia hemprichii,stony corals
+IrisFP,Lobophyllia hemprichii,stony corals
+IrisFP,Lobophyllia hemprichii,stony corals
+IrisFP-M159A,Lobophyllia hemprichii,stony corals
+mEos2,Lobophyllia hemprichii,stony corals
+mEos2,Lobophyllia hemprichii,stony corals
+mEos2-A69T,Lobophyllia hemprichii,stony corals
+mEos2-A69T,Lobophyllia hemprichii,stony corals
+mEos2-NA,Lobophyllia hemprichii,stony corals
+mEos3.1,Lobophyllia hemprichii,stony corals
+mEos3.1,Lobophyllia hemprichii,stony corals
+mEos3.2,Lobophyllia hemprichii,stony corals
+mEos3.2,Lobophyllia hemprichii,stony corals
+mEos4a,Lobophyllia hemprichii,stony corals
+mEos4a,Lobophyllia hemprichii,stony corals
+mEos4b,Lobophyllia hemprichii,stony corals
+mEos4b,Lobophyllia hemprichii,stony corals
+mEosEM,Lobophyllia hemprichii,stony corals
+mEosEM,Lobophyllia hemprichii,stony corals
+mEosFP,Lobophyllia hemprichii,stony corals
+mEosFP,Lobophyllia hemprichii,stony corals
+mEosFP-F173S,Lobophyllia hemprichii,stony corals
+mEosFP-F173S,Lobophyllia hemprichii,stony corals
+mEosFP-M159A,Lobophyllia hemprichii,stony corals
+mGeos-C,Lobophyllia hemprichii,stony corals
+mGeos-E,Lobophyllia hemprichii,stony corals
+mGeos-F,Lobophyllia hemprichii,stony corals
+mGeos-L,Lobophyllia hemprichii,stony corals
+mGeos-M,Lobophyllia hemprichii,stony corals
+mGeos-S,Lobophyllia hemprichii,stony corals
+mIrisFP,Lobophyllia hemprichii,stony corals
+mIrisFP,Lobophyllia hemprichii,stony corals
+moxEos3.2,Lobophyllia hemprichii,stony corals
+pcStar,Lobophyllia hemprichii,stony corals
+pcStar,Lobophyllia hemprichii,stony corals
+Skylan-NS,Lobophyllia hemprichii,stony corals
+Skylan-S,Lobophyllia hemprichii,stony corals
+fcFP,Favites complanata,stony corals
+fcomFP,Favites complanata,stony corals
+dfGFP,Olindias formosus,hydrozoans
+Gamillus,Olindias formosus,hydrozoans
+Gamillus0.1,Olindias formosus,hydrozoans
+Gamillus0.2,Olindias formosus,hydrozoans
+Gamillus0.3,Olindias formosus,hydrozoans
+Gamillus0.4,Olindias formosus,hydrozoans
+Gamillus0.5,Olindias formosus,hydrozoans
+ofCP,Olindias formosus,hydrozoans
+HcRed,Heteractis crispa,sea anemones
+HcRed1-Blue,Heteractis crispa,sea anemones
+HcRed7,Heteractis crispa,sea anemones
+HcRed-Tandem,Heteractis crispa,sea anemones
+hcriCP,Heteractis crispa,sea anemones
+hcriGFP,Heteractis crispa,sea anemones
+mGinger1,Heteractis crispa,sea anemones
+mGinger2,Heteractis crispa,sea anemones
+HriCFP,Hydnophora rigida,stony corals
+HriGFP,Hydnophora rigida,stony corals
+dsFP483,Discosoma striata,coral anemones
+DstC1,Discosoma striata,coral anemones
+nanoLuc,Oplophorus gracilirostris,crustaceans
+pporGFP,Porites porites,stony corals
+pporRFP,Porites porites,stony corals
+fabdGFP,Favites abdita,stony corals
+dVFP,Cyphastrea microphthalma,stony corals
+mVFP,Cyphastrea microphthalma,stony corals
+mVFP1,Cyphastrea microphthalma,stony corals
+VFP,Cyphastrea microphthalma,stony corals
+FPrfl2.3,Ricordea florida,coral anemones
+rfloGFP,Ricordea florida,coral anemones
+rfloGFP2,Ricordea florida,coral anemones
+rfloRFP,Ricordea florida,coral anemones
+EaGFP,Euphyllia ancora,stony corals
+anobCFP1,Acropora nobilis,stony corals
+anobCFP2,Acropora nobilis,stony corals
+anobGFP,Acropora nobilis,stony corals
+cerFP505,Cerianthus sp.,tube anemones
+avalCP580,Acropora valida,stony corals
+montFP,Scleractinia sp. Lizard Island 39,stony corals
+A44-KR,Anthoathecata,hydrozoans
+acanFP,Anthoathecata,hydrozoans
+anm1GFP1,Anthoathecata,hydrozoans
+anm1GFP2,Anthoathecata,hydrozoans
+anm2CP,Anthoathecata,hydrozoans
+Jred,Anthoathecata,hydrozoans
+KillerOrange,Anthoathecata,hydrozoans
+KillerRed,Anthoathecata,hydrozoans
+mKillerOrange,Anthoathecata,hydrozoans
+SuperNova Green,Anthoathecata,hydrozoans
+OFP,Ceriantharia,tube anemones
+atenFP,Acropora tenuis,stony corals
+Blue102,Discosoma sp.,coral anemones
+dimer1,Discosoma sp.,coral anemones
+dimer2,Discosoma sp.,coral anemones
+dis2RFP,Discosoma sp.,coral anemones
+dis3GFP,Discosoma sp.,coral anemones
+DspR1,Discosoma sp.,coral anemones
+DsRed,Discosoma sp.,coral anemones
+DsRed2,Discosoma sp.,coral anemones
+DsRed-Express,Discosoma sp.,coral anemones
+DsRed-Express2,Discosoma sp.,coral anemones
+DsRed.M1,Discosoma sp.,coral anemones
+DsRed-Max,Discosoma sp.,coral anemones
+DsRed-NF,Discosoma sp.,coral anemones
+DsRed.T3,Discosoma sp.,coral anemones
+DsRed.T4,Discosoma sp.,coral anemones
+DsRed-Timer,Discosoma sp.,coral anemones
+dTomato,Discosoma sp.,coral anemones
+E2-Crimson,Discosoma sp.,coral anemones
+E2-Crimson-NF,Discosoma sp.,coral anemones
+E2-Orange,Discosoma sp.,coral anemones
+E2-Red/Green,Discosoma sp.,coral anemones
+Fast-FT,Discosoma sp.,coral anemones
+FP586,Discosoma sp.,coral anemones
+GdT,Discosoma sp.,coral anemones
+GGvT,Discosoma sp.,coral anemones
+GRvT,Discosoma sp.,coral anemones
+GRvT,Discosoma sp.,coral anemones
+iq-mApple,Discosoma sp.,coral anemones
+jRGECO1a,Discosoma sp.,coral anemones
+jRGECO1a,Discosoma sp.,coral anemones
+LSSmApple,Discosoma sp.,coral anemones
+LSSmCherry1,Discosoma sp.,coral anemones
+LSSmOrange,Discosoma sp.,coral anemones
+mApple,Discosoma sp.,coral anemones
+mBanana,Discosoma sp.,coral anemones
+mCherry,Discosoma sp.,coral anemones
+mCherry1.5,Discosoma sp.,coral anemones
+mCherry2,Discosoma sp.,coral anemones
+mCherry_I202T,Discosoma sp.,coral anemones
+mCherry_I202Y,Discosoma sp.,coral anemones
+mCherry_M10L,Discosoma sp.,coral anemones
+mCherry-XL,Discosoma sp.,coral anemones
+Medium-FT,Discosoma sp.,coral anemones
+mGrape1,Discosoma sp.,coral anemones
+mGrape2,Discosoma sp.,coral anemones
+mGrape3,Discosoma sp.,coral anemones
+mHoneydew,Discosoma sp.,coral anemones
+mLychee,Discosoma sp.,coral anemones
+mNectarine,Discosoma sp.,coral anemones
+mOFP.T.12,Discosoma sp.,coral anemones
+mOFP.T.8,Discosoma sp.,coral anemones
+mOrange,Discosoma sp.,coral anemones
+mOrange2,Discosoma sp.,coral anemones
+mPlum,Discosoma sp.,coral anemones
+mPlum-E16P,Discosoma sp.,coral anemones
+mRaspberry,Discosoma sp.,coral anemones
+mRFP1,Discosoma sp.,coral anemones
+mRFP1.1,Discosoma sp.,coral anemones
+mRFP1.2,Discosoma sp.,coral anemones
+mRFP1.3,Discosoma sp.,coral anemones
+mRFP1.4,Discosoma sp.,coral anemones
+mRFP1.5,Discosoma sp.,coral anemones
+mRFP1_Magenta,Discosoma sp.,coral anemones
+mRFP1_Pink,Discosoma sp.,coral anemones
+mRFP1-Q66C,Discosoma sp.,coral anemones
+mRFP1-Q66S,Discosoma sp.,coral anemones
+mRFP1-Q66T,Discosoma sp.,coral anemones
+mRFP1_Violet,Discosoma sp.,coral anemones
+mRFP1_Yellow,Discosoma sp.,coral anemones
+mRojoA,Discosoma sp.,coral anemones
+mRojoB,Discosoma sp.,coral anemones
+mRouge,Discosoma sp.,coral anemones
+mSandy2,Discosoma sp.,coral anemones
+mStrawberry,Discosoma sp.,coral anemones
+mTangerine,Discosoma sp.,coral anemones
+PAmCherry1,Discosoma sp.,coral anemones
+PAmCherry2,Discosoma sp.,coral anemones
+PAmCherry3,Discosoma sp.,coral anemones
+pHuji,Discosoma sp.,coral anemones
+PSmOrange,Discosoma sp.,coral anemones
+PSmOrange,Discosoma sp.,coral anemones
+PSmOrange2,Discosoma sp.,coral anemones
+PSmOrange2,Discosoma sp.,coral anemones
+RDSmCherry0.1,Discosoma sp.,coral anemones
+RDSmCherry0.2,Discosoma sp.,coral anemones
+RDSmCherry0.5,Discosoma sp.,coral anemones
+RDSmCherry1,Discosoma sp.,coral anemones
+RRvT,Discosoma sp.,coral anemones
+rsCherry,Discosoma sp.,coral anemones
+rsCherryRev,Discosoma sp.,coral anemones
+rsCherryRev1.4,Discosoma sp.,coral anemones
+sfCherry,Discosoma sp.,coral anemones
+sfCherry2,Discosoma sp.,coral anemones
+sfCherry3C,Discosoma sp.,coral anemones
+sfOrange,Discosoma sp.,coral anemones
+ShyRFP,Discosoma sp.,coral anemones
+Slow-FT,Discosoma sp.,coral anemones
+tdimer2(12),Discosoma sp.,coral anemones
+tdTomato,Discosoma sp.,coral anemones
+Kaede,Trachyphyllia geoffroyi,stony corals
+Kaede,Trachyphyllia geoffroyi,stony corals
+22G,Echinophyllia sp. SC22,stony corals
+bsDronpa,Echinophyllia sp. SC22,stony corals
+Dronpa,Echinophyllia sp. SC22,stony corals
+Dronpa-2,Echinophyllia sp. SC22,stony corals
+Dronpa-3,Echinophyllia sp. SC22,stony corals
+Dronpa-C62S,Echinophyllia sp. SC22,stony corals
+ffDronpa,Echinophyllia sp. SC22,stony corals
+Kohinoor,Echinophyllia sp. SC22,stony corals
+Kohinoor2.0,Echinophyllia sp. SC22,stony corals
+Padron,Echinophyllia sp. SC22,stony corals
+Padron0.9,Echinophyllia sp. SC22,stony corals
+Padron2,Echinophyllia sp. SC22,stony corals
+Padron(star),Echinophyllia sp. SC22,stony corals
+pcDronpa,Echinophyllia sp. SC22,stony corals
+pcDronpa,Echinophyllia sp. SC22,stony corals
+pcDronpa2,Echinophyllia sp. SC22,stony corals
+pcDronpa2,Echinophyllia sp. SC22,stony corals
+PDM1-4,Echinophyllia sp. SC22,stony corals
+rsFastLime,Echinophyllia sp. SC22,stony corals
+rsKame,Echinophyllia sp. SC22,stony corals
+KCY,Verrillofungia concinna,stony corals
+KCY-G4219,Verrillofungia concinna,stony corals
+KCY-G4219-38L,Verrillofungia concinna,stony corals
+KCY-R1,Verrillofungia concinna,stony corals
+KCY-R1-158A,Verrillofungia concinna,stony corals
+KCY-R1-38H,Verrillofungia concinna,stony corals
+KCY-R1-38L,Verrillofungia concinna,stony corals
+KO,Verrillofungia concinna,stony corals
+mKG,Verrillofungia concinna,stony corals
+mK-GO,Verrillofungia concinna,stony corals
+mK-GO,Verrillofungia concinna,stony corals
+mKO,Verrillofungia concinna,stony corals
+mKO2,Verrillofungia concinna,stony corals
+mKOκ,Verrillofungia concinna,stony corals
+psupFP,Psammocora superficialis,stony corals
