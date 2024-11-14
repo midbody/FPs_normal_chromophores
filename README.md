@@ -8,8 +8,11 @@ This is to exclude bacteria- or plant-derived FPs not homologous to avGFP. Some 
 This is to exclude protein-by-protein. laRFP has unnusual extension of pi-system by conjugation with Y at n+2 position. zFP538, ZsYellow1, mPapaya, and mPapaya07 has KYG triplet, in which Lys forms an additional ring structure. cEGFP and cp-mKate are circularly permutated.
 
 'normal_chromophore_xxx.fasta' files contain sequences before alignment
+
 a. max_em < 485: 'cyan'
+
 b. 485 <= max_em < 550: 'green'
+
 c. max_em >= 550: 'red'
 
 'normal_chromophore_all_aligned.fasta' contain sequences after alignment with MAFFT
