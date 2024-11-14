@@ -21,3 +21,6 @@ c. max_em >= 550: 'red'
 
 'normal_chromophore_all_tree.pdf' is a graphical representation of the above tree. Out-group was set at the branching point between the lencets and crustaceans.
 
+The headers in the FASTA files and the texts on tree leaves are in the format [Species code]|[FPbase entry name]|[peak Ex]/[peak Em]
+
+The species code is "Hsap" for "Homo sapiens" and "Discosoma" for "Discosoma sp."
