@@ -2,6 +2,6 @@ laRFP
 zFP538
 ZsYellow1
 mPapaya
-mPapaya07
+mPapaya0.7
 cEGFP
 cp-mKate

@@ -1,0 +1,31 @@
+Anguilla japonica
+Arabidopsis thaliana
+Bradyrhizobium sp.
+Chlamydomonas reinhardtii
+Chroococcidiopsis
+Chloroflexus aggregans
+Deinococcus radiodurans
+Dendronephthya sp.
+Dinoroseobacter shibae
+Echinophyllia sp. SC22
+Favia favus
+Halorhodospira halophila
+Herbaspirillum frisingense
+Lobophyllia hemprichii
+Nostoc punctiforme
+Phacidium sp.
+Photobacterium leiognathi
+Pseudomonas putida
+Rhodopseudomonas palustris
+Rhodopseudomonas palustris CGA009
+Sander vitreus
+Scleractinia sp. Lizard Island 38
+Scleractinia sp. Lizard Island 28
+Scleractinia sp. Lizard Island 37
+Scleractinia sp. Lizard Island 30
+Scleractinia sp. Lizard Island 39
+Stigeoclonium helveticum
+Stylocoeniella armata
+Trichodesmium erythraeum IMS101
+Verrillofungia concinna
+Vitreoscilla beggiatoides

@@ -149,8 +149,8 @@ with open(all_fasta_output, "w") as all_fasta_file, \
         #safer_name = name.replace(".","")
         #safer_name = safer_name.replace(":","")
         #safer_name = safer_name.replace("|","")
-       # safer_name = safer_name.replace(" ","_")
-        header = f">'{species_code}|{name}|{ex_max}/{em_max}'"
+        safer_name = name.replace(" ","_")
+        header = f">{species_code}|{safer_name}|{ex_max}/{em_max}"
         
         # Write to a FASTA file corresponding to the max emission wavelength
         all_fasta_file.write(f"{header}\n{sequence}\n")
@@ -162,18 +162,21 @@ with open(all_fasta_output, "w") as all_fasta_file, \
             red_fasta_file.write(f"{header}\n{sequence}\n")
     
     #cmFP512
-    header=">'Cmem|cmFP512|503/512' tr|Q5ZQQ5|Q5ZQQ5_CERMM Green fluorescent protein FP512 OS=Cerianthus membranaceus OX=208460 PE=1 SV=1"
+    header=">Cmem|cmFP512|503/512 tr|Q5ZQQ5|Q5ZQQ5_CERMM Green fluorescent protein FP512 OS=Cerianthus membranaceus OX=208460 PE=1 SV=1"
     sequence="MSQLDNNLSVSVYMKGNVNNHEFEYDGIGGGDPNSGQFSLKTKLRGGKPLPFSYDIITMGFQYGFRAFTKYPEGIADYFKGSFPEAFQWNRRIEFEDGGVINMSSDITYKDKVLHGDVWALGVNFPPNGPVMKNEIVMEEPAEETLTAKNGVLVGFCPKAYLLKDGSYYYGHMTTFYRSKKSGQPLPGFHFIKHRLVKTKVEPGFKMVEQAEYATAHVCDLPKPN"
     green_fasta_file.write(f"{header}\n{sequence}\n")
+    all_fasta_file.write(f"{header}\n{sequence}\n")
 
-    #ccalRFP2
-    header=">'Ccal|ccalRFP2|558/516' tr|Q1ALD5|Q1ALD5_CORYC GFP-type red fluorescent protein OS=Corynactis californica OX=44298 PE=2 SV=1"
+    #ccalRFP2 red emission DOI: 10.1007/s10126-007-9072-7
+    header=">Ccal|ccalRFP2|558/587 tr|Q1ALD5|Q1ALD5_CORYC GFP-type red fluorescent protein OS=Corynactis californica OX=44298 PE=2 SV=1"
     sequence="MSLSKQVLPHDVRMRYHMDGCVNGHSFTIEGEGAGKPYEGKKTLKLRVTKGGPLPFAFDILSATFTYGNRCFCEYPEDMPDYFKQSLPEGYSWERTMMYEDGGCGTSSAHIRLEKNCFVHQSTFLGVNFPANGPVMQKKALNWEPSSELITPCDGILKGDVTMFLMLEGGHRQKCQFTTSYKASKAVKMPPNHIIEHVVWKGEDSDGFQIKEHAVAKHFTVDVKET"
     red_fasta_file.write(f"{header}\n{sequence}\n")
+    all_fasta_file.write(f"{header}\n{sequence}\n")
     
     #GFPxm
-    header=">'Amac|GFPxm/476/496' tr|Q8WP95|Q8WP95_9CNID Green fluorescent protein OS=Aequorea macrodactyla OX=147615 GN=GFPxm PE=2 SV=1"
+    header=">Amac|GFPxm|476/496 tr|Q8WP95|Q8WP95_9CNID Green fluorescent protein OS=Aequorea macrodactyla OX=147615 GN=GFPxm PE=2 SV=1"
     sequence="MSKGEELFTGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTFSYGIQCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSTQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK"
-    green_fasta_file.write(f"{header}\n{sequence}\n")    
+    green_fasta_file.write(f"{header}\n{sequence}\n")
+    all_fasta_file.write(f"{header}\n{sequence}\n")
     
 print(f"Sequences saved to '{cyan_fasta_output}', '{green_fasta_output}' , and '{red_fasta_output}'")
